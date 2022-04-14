@@ -1,0 +1,1 @@
+/home/sco305/.bashrc
